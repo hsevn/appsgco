@@ -27,7 +27,11 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
+<<<<<<< HEAD
   if (!window.Create(L"sgco", origin, size)) {
+=======
+  if (!window.Create(L"appsgco", origin, size)) {
+>>>>>>> db53e27 (Initial commit - Flutter project appsgco)
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

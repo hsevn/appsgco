@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="sgco"
+=======
+        android:label="appsgco"
+>>>>>>> db53e27 (Initial commit - Flutter project appsgco)
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -43,3 +47,5 @@
         </intent>
     </queries>
 </manifest>
+<uses-permission android:name="android.permission.CAMERA"/>
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>

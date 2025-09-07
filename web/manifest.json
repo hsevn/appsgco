@@ -1,11 +1,20 @@
 {
+<<<<<<< HEAD
     "name": "sgco",
     "short_name": "sgco",
+=======
+    "name": "appsgco",
+    "short_name": "appsgco",
+>>>>>>> db53e27 (Initial commit - Flutter project appsgco)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
+<<<<<<< HEAD
     "description": "A new Flutter project.",
+=======
+    "description": "phát triển app dt công ty sgo",
+>>>>>>> db53e27 (Initial commit - Flutter project appsgco)
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
